@@ -10,7 +10,7 @@ public class DigitSeparate {
 
 		System.out.print("\nEnter an integer: ");
 		int num = input.nextInt();
-		int dupNum = num; //duplicate num
+		int dupNum = num; //duplicate number
 		int count = 0;
 		
 		//counting the number of digits in the integer

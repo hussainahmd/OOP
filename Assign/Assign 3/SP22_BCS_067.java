@@ -69,7 +69,7 @@ class Salat implements Comparable<Salat>{
 	 
 	public Time getTime(){return time;}
 	
-	//input validation for Salat name, number of farz and number of sunnah
+	//input validation for Salat name, number of farz and no. of sunnah
 	private void validate(String name, int farz, int sunnah) throws IllegalArgumentException{
 		//check for any incorrect Salat name
 		if(!(name.equals("fajar") || name.equals("zuhar") || name.equals("asar") || name.equals("maghrib") || name.equals("isha"))){

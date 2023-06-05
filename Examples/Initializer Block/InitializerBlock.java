@@ -18,7 +18,7 @@ public class InitializerBlock{
 		Test t5 = new Test("from constructor");
 	}
 	
-	//
+	//m
 	public static void main(String[] args){
 		InitializerBlock obj = new InitializerBlock();
 		System.out.println("Value of x assigned by initializer block : " + obj.x);

@@ -1,4 +1,4 @@
-// Fig. 5.8: Craps.java ////
+// Fig. 5.8: Craps.java ///
 // Craps class simulates the dice game craps.
 import java.security.SecureRandom;
 
